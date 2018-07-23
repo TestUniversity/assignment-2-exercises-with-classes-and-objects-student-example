@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TicketMachine
+comment0.text=\n\ A\ program\ to\ print\ out\ a\ ticket\n\ \n\ @author\ "Cham\ Tat\ Cheng"\n\ @version\ 22/6/18\n
+comment1.params=ticketCost
+comment1.target=TicketMachine(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TicketMachine\n
+comment2.params=
+comment2.target=void\ callMethods()
+comment2.text=\n\ callMethods\ \ \n\ a\ director\ method\ that\ determines\ the\ order\ the\ methods\ are\ called\ in\n\ and\ directs\ the\ 'flow'\ of\ the\ program,\ the\ constructor\ need\ not\ be\ called\ as\ \n\ it\ is\ called\ when\ an\ instance\ of\ the\ class\ is\ created.\n\ @param\ \ \ \ \ none\n\ @return\ \ \ \ none\n
+comment3.params=
+comment3.target=int\ getPrice()
+comment3.text=\n\ getPrice\ \n\ returns\ the\ price\ \n\ this\ method\ would\ be\ called\ from\ other\ classess\ to\ get\ the\ value\ stored\ in\ price.\n\ @param\ \ \ \ \ none\n\ @return\ \ \ \ price\n
+comment4.params=amount
+comment4.target=void\ insertMoney(int)
+comment4.text=\n\ insertMoney\ \n\ sets\ the\ balance\n\ @param\ \ \ \ \ amount\n\ @return\ \ \ \ none\n
+comment5.params=
+comment5.target=void\ printTicket()
+comment5.text=\n\ printTicket\ \n\ prints\ out\ ticket\ and\ updates\ total\ and\ clears\ the\ balance\ \n\ @param\ \ \ \ \ none\n\ @return\ \ \ \ none\n
+comment6.params=
+comment6.target=int\ refundBalance()
+comment6.text=\n\ refundBalance\ \n\ refunds\ the\ balance\ \n\ @param\ \ \ \ \ none\n\ @return\ \ \ \ amountToRefund\n
+numComments=7

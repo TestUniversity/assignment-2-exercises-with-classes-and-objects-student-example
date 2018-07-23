@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=class\ Practical
+comment0.text=\nWeek\ 2\ Practical\nFix\ the\ errors\ and\ find\ out\ what\ the\ program\ does\n\n@author\ Alan\ Clelland\n@version\ 05/07/05\n\n
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.target=x
+comment3.params=
+comment3.target=boolean\ getX()
+comment4.params=
+comment4.target=Practical()
+comment4.text=\nConstructor\ for\ objects\ of\ class\ Practical\n\n
+numComments=5
